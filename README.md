@@ -34,6 +34,7 @@ The following are the information you need to solve this task:
 
 ## Solution 1: Automate the login process
 
+![image](https://github.com/user-attachments/assets/d0ca5947-2673-4626-80b1-d53d74601c9e)
 
 
 ## Scenario 2: Analyze the logins
@@ -62,6 +63,15 @@ The following are the information you need to solve the task:
 
 ## Solution 2: Analyze the logins
 
+![image](https://github.com/user-attachments/assets/24046195-b4ab-4502-9100-a3f92784d63c)
+
+![image](https://github.com/user-attachments/assets/a5199ba4-3d62-4427-a448-2e24fe32ee1e)
+
+![image](https://github.com/user-attachments/assets/17b37944-4337-4c17-9c37-b29b743ac4c6)
+
+![image](https://github.com/user-attachments/assets/06d7b0b4-48c6-49e3-92b3-a2526e8d1163)
+
+
 ## Scenario 3: Regular expression to find patterns
 
 The security analyst team at XYZ Corp has asked you to investigate patterns in the activities. They require you to use python for automation. The objective is to find the patterns behind it by using regular experessions. 
@@ -73,4 +83,15 @@ The following are the information you need to solve the tasks:
 * Find the IP adddress in the form of 192.xxx.xxx and analzye the logs. These are the logs : `eraab 2022-05-10 6:03:41 192.168.152.148 \niuduike 2022-05-09 6:46:40 192.168.22.115 \nsmartell 2022-05-09 19:30:32 192.168.190.178 \narutley 2022-05-12 17:00:59 1923.1689.3.24 \nrjensen 2022-05-11 0:59:26 192.168.213.128 \naestrada 2022-05-09 19:28:12 1924.1680.27.57 \nasundara 2022-05-11 18:38:07 192.168.96.200 \ndkot 2022-05-12 10:52:00 1921.168.1283.75 \nabernard 2022-05-12 23:38:46 19245.168.2345.49 \ncjackson 2022-05-12 19:36:42 192.168.247.153 \njclark 2022-05-10 10:48:02 192.168.174.117 \nalevitsk 2022-05-08 12:09:10 192.16874.1390.176 \njrafael 2022-05-10 22:40:01 192.168.148.115 \nyappiah 2022-05-12 10:37:22 192.168.103.10654 \ndaquino 2022-05-08 7:02:35 192.168.168.144`.
   
 ## Solution 3: Regular expression to find patterns 
+
+![image](https://github.com/user-attachments/assets/6ac1c129-dcf2-4e67-b3ba-e7a2319d3d87)
+
+![image](https://github.com/user-attachments/assets/1076701f-0662-4083-bdb0-43a08e1c4529)
+
+![image](https://github.com/user-attachments/assets/4c63fabc-56c5-4ac4-8fd4-a210acd3fc30)
+
+![image](https://github.com/user-attachments/assets/315f615e-8ffe-4252-a25c-f850937069cb)
+
+
+
 
